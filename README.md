@@ -1,1 +1,2 @@
 # Game_bot_using_Neural_Network
+The objective of this project is to outline the steps involved in integrating a trained neural network model into a game bot for generating button actions. The integration process involves preprocessing the data, splitting it into training and test sets, training the model, saving the trained model, and modifying the bot.py file to load the model for generating button actions.
